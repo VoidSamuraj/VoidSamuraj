@@ -1,7 +1,8 @@
 ### Hi there 👋, Karol Robak
 #### IT Student | Android Developer
+<!--
 ![IT Student | Android Developer](https://user-images.githubusercontent.com/49106260/150949705-71a25eab-e611-4114-82fc-c92448e662e4.jpg)
-
+-->
  I’m Karol from Poland, and I write code. I really like creating mobile apps. I like to expand my knowledge to implement more advanced projects.
 
 Skills: KOTLIN / JAVA 
