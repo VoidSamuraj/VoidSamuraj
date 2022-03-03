@@ -8,7 +8,7 @@
 Skills: KOTLIN / JAVA 
 
 - 🔭 I’m currently working on https://github.com/corsairoo/LordOfTime 
-- 🌱 I’m currently learning Jetpack Compose 
+- 🌱 I’m currently learning Flutter
 
 
 <!--
