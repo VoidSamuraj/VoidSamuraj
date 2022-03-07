@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/karol-robak-065a8519a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"  title="Linkedin" alt="Linkedin"/>
     </a>
-    <a href="https://www.youtube.com/channel/UCc16N-rppD5NF6rW3ja_ev">
+    <a href="https://www.youtube.com/channel/UCc16N-rppD5NF6rW3ja_evA">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"title="YouTube" alt="YouTube"/>
     </a>
     <a href="mailto:voidsamuraj2137@gmail.com">
