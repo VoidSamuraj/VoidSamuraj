@@ -8,8 +8,8 @@
 Skills: KOTLIN / JAVA 
 
 - 🔭 I’m currently working on https://github.com/corsairoo/LordOfTime 
-- 🌱 I’m currently learning Flutter
-
+<!--- 🌱 I’m currently learning Flutter
+ -->
 
 <!--
 ![corsairoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=corsairoo&show_icons=true&theme=algolia&hide=contribs)  -->
