@@ -1,6 +1,6 @@
 
-<!--
-### Hi there 👋
+<!--👋
+### Hi there 
 #### IT Student | Android Developer
 -->
 <p align="center">
