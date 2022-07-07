@@ -1,6 +1,6 @@
 
-<!--👋
-### Hi there 
+<!--
+### Hi there 👋
 #### IT Student | Android Developer
 -->
 <p align="center">
@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=corsairoo&style=flat-square&color=blue" alt="">
 </p>
-<h2 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h2 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/></h1>
 <img src="https://user-images.githubusercontent.com/49106260/150949705-71a25eab-e611-4114-82fc-c92448e662e4.jpg" alt="">
 
  </p>
