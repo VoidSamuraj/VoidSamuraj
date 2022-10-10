@@ -24,7 +24,7 @@
     </a>
 </div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=corsairoo&style=flat-square&color=blue" alt="">
+  <img src="https://komarev.com/ghpvc/?username=VoidSamuraj&style=flat-square&color=blue" alt="">
 </p>
 <h2 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/></h1>
 <img src="https://user-images.githubusercontent.com/49106260/150949705-71a25eab-e611-4114-82fc-c92448e662e4.jpg" alt="">
@@ -43,9 +43,9 @@
 <br/>
   
 <!--
-![corsairoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=corsairoo&show_icons=true&theme=algolia&hide=contribs)  -->
+![VoidSamuraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoidSamuraj&show_icons=true&theme=algolia&hide=contribs)  -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corsairoo&layout=compact&theme=algolia)!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoidSamuraj&layout=compact&theme=algolia)!
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <image src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
@@ -54,6 +54,6 @@
 <image src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 <!---
-corsairoo/corsairoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VoidSamuraj/VoidSamuraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
