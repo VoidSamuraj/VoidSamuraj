@@ -7,7 +7,7 @@
   <img src="https://media0.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif?cid=790b76114a60bf714cf6e2607d9162be7fedfbad73480758&rid=giphy.gif&ct=s"height="200"/>
   <h3 align="center"> IT Student | Android Developer</h3>
   <div align="center">
-    <a href="https://www.linkedin.com/in/karol-robak-065a8519a/">
+    <a href="https://www.linkedin.com/in/karol-robak/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"  title="Linkedin" alt="Linkedin"/>
     </a>
     <a href="https://www.youtube.com/channel/UCc16N-rppD5NF6rW3ja_evA">
