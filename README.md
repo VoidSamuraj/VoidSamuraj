@@ -64,8 +64,7 @@ I have experience creating applications with Firebase and designing websites wit
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" style="padding-right:10;"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40" style="padding-right:10;"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40" style="padding-right:10;"/>&nbsp;         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" style="padding-right:10;"/>&nbsp;           
-<img src="https://github.com/user-attachments/assets/57f95577-87b4-4eab-ab5f-5297be444fb6" title="Ktor" alt="Ktor" width="40" height="40" style="padding-right:10;"/>&nbsp;      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" style="padding-right:10;"/>&nbsp;  
 <img src="https://github.com/user-attachments/assets/fdea897a-a1bb-48b4-9d10-c3572a73eed1" title="Swift" alt="Swift" width="40" height="40" style="padding-right:10;"/>&nbsp;           
 
 
