@@ -41,7 +41,7 @@
  
 I'm a IT engineer ,I love writing Android applications using Kotlin, Java and Jetpack Compose, but I don't limit myself to that.
 
-I have experience creating applications with Firebase and designing websites with HTML, JS, CSS. I've also worked on desktop applications using Java, JavaFX, and C/C++. I've also built a few backend applications with Ktor.
+I have experience creating applications with Firebase and designing websites with HTML, JS, CSS and React. I've also worked on desktop applications using Java, JavaFX, and C/C++. I've also built a few backend applications with Ktor.
 
 
 
