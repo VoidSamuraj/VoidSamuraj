@@ -1,12 +1,12 @@
 
 <!--
 ### Hi there 👋
-#### IT Student | Android Developer
+#### IT Engineer, | Android/Kotlin/Java Developer
 -->
 
 <p align="center">
   <img src="https://media0.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif?cid=790b76114a60bf714cf6e2607d9162be7fedfbad73480758&rid=giphy.gif&ct=s"height="200"/>
-  <h3 align="center"> IT Student | Android Developer</h3>
+  <h3 align="center">IT Engineer · Android / Kotlin / Java Developer</h3>
   <div align="center">
     <a href="https://www.linkedin.com/in/karol-robak/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"  title="Linkedin" alt="Linkedin"/>
@@ -39,10 +39,9 @@
  
 
  
-I'm a computer science student,I love writing Android applications using Kotlin, Java and Jetpack Compose, but I don't limit myself to that.
+I'm a IT engineer ,I love writing Android applications using Kotlin, Java and Jetpack Compose, but I don't limit myself to that.
 
-I have experience creating applications with Firebase and designing websites with HTML, JS, and CSS. I've also worked on desktop applications using Java, JavaFX, and C/C++.
-
+I have experience creating applications with Firebase and designing websites with HTML, JS, CSS. I've also worked on desktop applications using Java, JavaFX, and C/C++. I've also built a few backend applications with Ktor.
 
 
 
@@ -64,8 +63,12 @@ I have experience creating applications with Firebase and designing websites wit
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" title="Arduino" alt="Firebase" width="40" height="40" style="padding-right:10;"/>&nbsp;       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" style="padding-right:10;"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40" style="padding-right:10;"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="JS" width="40" height="40" style="padding-right:10;"/>&nbsp;         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="JS" width="40" height="40" style="padding-right:10;"/>&nbsp;           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40" style="padding-right:10;"/>&nbsp;         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" style="padding-right:10;"/>&nbsp;           
+<img src="https://github.com/user-attachments/assets/57f95577-87b4-4eab-ab5f-5297be444fb6" title="Ktor" alt="Ktor" width="40" height="40" style="padding-right:10;"/>&nbsp;      
+<img src="https://github.com/user-attachments/assets/fdea897a-a1bb-48b4-9d10-c3572a73eed1" title="Swift" alt="Swift" width="40" height="40" style="padding-right:10;"/>&nbsp;           
+
+
 </div>
 <!---
 VoidSamuraj/VoidSamuraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
